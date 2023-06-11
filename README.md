@@ -2,6 +2,7 @@
 layout: home
 title: Introduction
 permalink: /
+cover: assets/coverpage.png
 ---
 
 # Welcome to my portfolio
