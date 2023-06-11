@@ -1,7 +1,6 @@
 ---
 title: Certificates
-author: Syauqi
-date: 2023-11-05
+author: Syauqi Alias
 category: Jekyll
 layout: post
 ---
