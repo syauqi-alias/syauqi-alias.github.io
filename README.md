@@ -26,4 +26,8 @@ These are the areas I am interested in:
 # Current Status
 I am an Electronics Engineer currently employed at Top Hex Ltd in Cambridge since October 2021.
 
-I am actively seeking new opportunities in Cambridge as an Electronic Engineer or Embedded System Engineer.
+> ##### TIP
+>
+> I am actively seeking new opportunities in Cambridge as an Electronic 
+> Engineer or Embedded System Engineer.
+{: .block-tip }
