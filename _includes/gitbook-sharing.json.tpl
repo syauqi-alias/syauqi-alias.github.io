@@ -1,5 +1,5 @@
             "sharing": {
-                "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram", "linkedin"],
+                "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram"],
                 "facebook": false,
                 "google": false,
                 "github": true,
@@ -9,7 +9,5 @@
                 "instapaper": false,
                 "twitter": false,
                 "vk": false,
-                "weibo": false,
-                "linkedin": true, 
-                "linkedin_link": "https://www.linkedin.com/in/syauqi-alias/"
+                "weibo": false
             },
