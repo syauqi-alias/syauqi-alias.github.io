@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Syauqi Alias's portfolio
+title: Introduction
 permalink: /
 ---
 
@@ -10,9 +10,10 @@ Greetings! This is my online portfolio where you can access information about my
 To find the information you need, simply use the sidebar navigation.
 
 # About
-My name is Syauqi Alias, you can call me Syauqi. I've spent 6 years in engineering school.
-The first 3 years were at German-Malaysian Institute undertaking Diploma in Industrial Electronic (Electronic) afterward I continue another 3 years doing my degree at The University of Manchester with Bachelor in Engineering in Electrical and Electronics.
+Hi, my name is Syauqi Alias, but you can call me Syauqi. I studied engineering for 6 years. I spent the first 3 years at the German-Malaysian Institute studying for a Diploma in Industrial Electronic (Electronic & I.T). After that, I continued my studies for another 3 years at The University of Manchester, where I obtained a Bachelor's degree in Engineering in Electrical and Electronics.
 
+![German-Malaysian Institute logo](assets/logo-gmi-header.png "German-Malaysian Institute")
 ![The University of Manchester logo](assets/uni_logo_manchester_1280_510.jpg "The University of Manchester")
 
-Currently working as an Electronics Engineer at Top Hex Ltd in Cambridge. 
+Currently working as an Electronics Engineer at Top Hex Ltd in Cambridge since October 2021.
+
