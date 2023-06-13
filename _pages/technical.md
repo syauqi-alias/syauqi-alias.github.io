@@ -6,7 +6,10 @@ category: Jekyll
 layout: post
 ---
 
-Programming Langguage
+
+I'm constantly expanding my skillset to meet industry requirements and stay adaptable in my professional pursuits.
+
+Programming Language
 ---------------------
 - C/C++
 - Python
