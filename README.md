@@ -16,6 +16,12 @@ Hi, my name is Syauqi Alias, but you can call me Syauqi. I studied engineering f
 ![German-Malaysian Institute logo](assets/logo-gmi-header.png "German-Malaysian Institute")
 ![The University of Manchester logo](assets/uni_logo_manchester_1280_510.jpg "The University of Manchester")
 
+<p float="left">
+  <img src="assets/logo-gmi-header.png" width="49%" />
+  <img src="assets/uni_logo_manchester_1280_510.jpg" width="49%" />
+</p>
+
+
 An electronic hobbyist at heart and enjoy working on various projects to enhance my design skills and learn new things.
 
 These are the areas I am interested in:
