@@ -17,8 +17,8 @@ Hi, my name is Syauqi Alias, but you can call me Syauqi. I studied engineering f
 ![The University of Manchester logo](assets/uni_logo_manchester_1280_510.jpg "The University of Manchester")
 
 <p float="left">
-  <img src="assets/logo-gmi-header.png" width="49%" />
-  <img src="assets/uni_logo_manchester_1280_510.jpg" width="49%" />
+  <img src="assets/logo-gmi-header.png" width="39%" />
+  <img src="assets/uni_logo_manchester_1280_510.jpg" width="59%" />
 </p>
 
 
