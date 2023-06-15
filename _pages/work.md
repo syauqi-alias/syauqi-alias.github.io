@@ -19,14 +19,14 @@ Currently work as an Electronic engineer 🧑‍🔬. It is based in Greater Cam
 <img src="https://syauqi-alias.github.io/assets/schem.jpg" />
 
 <p float="left">
-  <img src="https://syauqi-alias.github.io/assets/pcb3.jpg" width="33%" />
-  <img src="https://syauqi-alias.github.io/assets/pcb2.jpg" width="33%" />
-  <img src="https://syauqi-alias.github.io/assets/pcb1.jpg" width="33%" />
+  <img src="https://syauqi-alias.github.io/assets/pcb3.jpg" width="30%" />
+  <img src="https://syauqi-alias.github.io/assets/pcb2.jpg" width="30%" />
+  <img src="https://syauqi-alias.github.io/assets/pcb1.jpg" width="30%" />
 </p>
 <p float="left">
-  <img src="https://syauqi-alias.github.io/assets/completepcb.jpg" width="33%" />
-  <img src="https://syauqi-alias.github.io/assets/pcb4.jpg" width="33%" />
-  <img src="https://syauqi-alias.github.io/assets/testbed.jpg" width="33%" />
+  <img src="https://syauqi-alias.github.io/assets/completepcb.jpg" width="30%" />
+  <img src="https://syauqi-alias.github.io/assets/pcb4.jpg" width="30%" />
+  <img src="https://syauqi-alias.github.io/assets/testbed.jpg" width="30%" />
 </p>
 
 ## Cathodic Disbondment Test - 16 Channel (Layout Job)
