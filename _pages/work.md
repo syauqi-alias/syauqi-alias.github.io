@@ -15,11 +15,19 @@ Currently work as an Electronic engineer 🧑‍🔬. It is based in Greater Cam
 - Evaluate and improve hardware design processes to increase efficiency and productivity. 
 - experience in programming firmware for electronic control boards, primarily using PIC MCUs and C programming language.
 
-## A custom air flow sensor with PIC24 MCU
-<img src="https://syauqi-alias.github.io/assets/schem.jpg"  />
+## A custom air flow sensor with PIC24 MCU (Deisgn form scratch)
+<img src="https://syauqi-alias.github.io/assets/schem.jpg" />
 
 <p float="left">
   <img src="https://syauqi-alias.github.io/assets/pcb3.jpg" width="33%" />
   <img src="https://syauqi-alias.github.io/assets/pcb2.jpg" width="33%" />
   <img src="https://syauqi-alias.github.io/assets/pcb1.jpg" width="33%" />
 </p>
+<p float="left">
+  <img src="https://syauqi-alias.github.io/assets/completepcb.jpg" width="33%" />
+  <img src="https://syauqi-alias.github.io/assets/pcb4.jpg" width="33%" />
+  <img src="https://syauqi-alias.github.io/assets/testbed.jpg" width="33%" />
+</p>
+
+## Cathodic Disbondment Test - 16 Channel (Layout Job)
+<img src="https://syauqi-alias.github.io/assets/cdt.jpg" />
