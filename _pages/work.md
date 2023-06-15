@@ -6,7 +6,9 @@ category: Jekyll
 layout: post
 ---
 
-# Top Hex Ltd., Greater [Cambridge]
+# Top Hex Ltd.
+Greater Cambridge, United Kingdom
+
 October 2021 - present
 <p align="center">
   <img src="https://syauqi-alias.github.io/assets/top_hex_logo.png" />
@@ -42,7 +44,9 @@ Omron air flow sensor with PIC24 MCU (design from scratch)
 16 ADC Channel (Layout Job)
 <img src="https://syauqi-alias.github.io/assets/cdt.jpg" />
 
-# Sonepar Sdn. Bhd. [Cyberjaya]
+# Sonepar Sdn. Bhd.
+Cyberjaya, Malaysia
+
 July 2017 - November 2017
 <p align="center">
   <img src="https://syauqi-alias.github.io/assets/sonepar.png" />
