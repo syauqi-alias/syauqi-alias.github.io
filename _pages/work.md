@@ -53,6 +53,6 @@ July 2017 - November 2017
 </p>
 A 5-month placement during my diploma. It is part of my studies curriculum to undergo an industrial placement. 
 
-- Examined and classified specifications of industrial electrical/electronic product datasheets 
+- Examined and classified specifications of industrial electrical electronic product datasheets 
 - Designed catalogs for well-known industrial electrical/electronic product brands 
 - Attended workshops to enhance B2B professional skills
