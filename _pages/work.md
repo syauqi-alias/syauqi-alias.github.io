@@ -26,24 +26,25 @@ Currently work as an Electronic engineer 🧑‍🔬. It is based in Greater Cam
 ## A custom air flow sensor PCB
 Omron air flow sensor with PIC24 MCU (design from scratch)
 
-
-<img src="https://syauqi-alias.github.io/assets/schem.jpg" />
-
 <p align="center">
-  <img src="https://syauqi-alias.github.io/assets/pcb3.jpg" width="30%" />
-  <img src="https://syauqi-alias.github.io/assets/pcb2.jpg" width="30%" />
-  <img src="https://syauqi-alias.github.io/assets/pcb1.jpg" width="30%" />
+  <img src="https://syauqi-alias.github.io/assets/schem.jpg" width="100%" />
+</P>
+<p align="center">
+  <img src="https://syauqi-alias.github.io/assets/pcb3.jpg" width="31%" />
+  <img src="https://syauqi-alias.github.io/assets/pcb2.jpg" width="31%" />
+  <img src="https://syauqi-alias.github.io/assets/pcb1.jpg" width="31%" />
 </p>
 <p align="center">
-  <img src="https://syauqi-alias.github.io/assets/completepcb.jpg" width="30%" />
-  <img src="https://syauqi-alias.github.io/assets/pcb4.jpg" width="30%" />
-  <img src="https://syauqi-alias.github.io/assets/testbed.jpg" width="30%" />
+  <img src="https://syauqi-alias.github.io/assets/completepcb.jpg" width="31%" />
+  <img src="https://syauqi-alias.github.io/assets/pcb4.jpg" width="31%" />
+  <img src="https://syauqi-alias.github.io/assets/testbed.jpg" width="31%" />
 </p>
 
 ## Cathodic Disbondment Tester
 16 ADC Channel (Layout Job)
-<img src="https://syauqi-alias.github.io/assets/cdt.jpg" />
-
+<p align="center">
+  <img src="https://syauqi-alias.github.io/assets/cdt.jpg" width="100%"/>
+</p>
 # Sonepar Sdn. Bhd.
 Cyberjaya, Malaysia
 
