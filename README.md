@@ -6,7 +6,7 @@ cover: assets/coverpage.png
 ---
 
 # Welcome to my portfolio
-Greetings! This is my online portfolio where you can access information about my experience, previous projects, and upcoming project plans.
+Greetings! This is my online portfolio where you can access information about my experience, previous projects, and upcoming project plans. Give time for the page to load.
 
 To find the information you need, simply use the sidebar navigation.
 
