@@ -9,7 +9,7 @@ layout: post
 # Top Hex Ltd.
 Greater Cambridge, United Kingdom
 
-October 2021 - present
+October 2021 - Present
 <p align="center">
   <img src="https://syauqi-alias.github.io/assets/top_hex_logo.png" />
 </p>
@@ -41,10 +41,11 @@ Omron air flow sensor with PIC24 MCU (design from scratch)
 </p>
 
 ## Cathodic Disbondment Tester
-16 ADC Channel (Layout Job)
+16 ADC Channel (Layout Job 4 layer)
 <p align="center">
   <img src="https://syauqi-alias.github.io/assets/cdt.jpg" width="100%"/>
 </p>
+
 # Sonepar Sdn. Bhd.
 Cyberjaya, Malaysia
 
@@ -54,6 +55,6 @@ July 2017 - November 2017
 </p>
 A 5-month placement during my diploma. It is part of my studies curriculum to undergo an industrial placement. 
 
-- Examined and classified specifications of industrial electrical electronic product datasheets 
-- Designed catalogs for well-known industrial electrical/electronic product brands 
-- Attended workshops to enhance B2B professional skills
+- Examined and classified specifications of industrial electrical electronic product datasheets.
+- Designed catalogs for industrial electrical/electronic product brands such as ABB, Schneider Electric, Brother Industries, TE Connectivity, and Siemens.
+- Attended workshops to enhance B2B professional skills.
