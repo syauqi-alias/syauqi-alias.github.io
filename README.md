@@ -14,8 +14,8 @@ To find the information you need, simply use the sidebar navigation.
 Hi, my name is Syauqi Alias, but you can call me Syauqi. Studied engineering for 6 years. Spent the first 3 years at the German-Malaysian Institute studying for a Diploma in Industrial Electronic (Electronic & I.T). After that, continued my studies for another 3 years at The University of Manchester, where I obtained a Bachelor's degree in Engineering in Electrical and Electronics.
 
 <p align="center">
-  <img src="assets/logo-gmi-header.png" width="39%" />
   <img src="assets/uni_logo_manchester_1280_510.jpg" width="59%" />
+  <img src="assets/logo-gmi-header.png" width="39%" />
 </p>
 
 
