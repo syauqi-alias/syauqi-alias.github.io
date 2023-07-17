@@ -24,7 +24,7 @@ Currently work as an Electronic Engineer 🧑‍🔬. It is based in Greater Cam
 - experience in programming firmware for electronic control boards, primarily using PIC MCUs and C programming language.
 
 ## Custom air flow sensor PCB
-Omron air flow sensor with PIC24 MCU (design from scratch)
+Omron air flow sensor with PIC24 MCU (design from scratch).
 
 <p align="center">
   <img src="https://syauqi-alias.github.io/assets/schem.jpg" width="100%" />
@@ -41,15 +41,15 @@ Omron air flow sensor with PIC24 MCU (design from scratch)
 </p>
 
 ## Cathodic Disbondment Tester
-16 ADC Channel (Layout Job 4 layer)
+16 ADC Channel (Layout Job 4 layer).
 <p align="center">
   <img src="https://syauqi-alias.github.io/assets/cdt.jpg" width="100%"/>
 </p>
 
-# 8 channel 0-10V high speed datalogger
+## 8 channel 0-10V high speed datalogger
 
 Logs 8 x 0-10V analogue signals at a sampling rate of 100 reading per second for each
-channel
+channel.
 
 <p align="center">
   <img src="https://syauqi-alias.github.io/assets/specnow.PNG" width="100%"/>
