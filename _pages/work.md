@@ -46,6 +46,15 @@ Omron air flow sensor with PIC24 MCU (design from scratch)
   <img src="https://syauqi-alias.github.io/assets/cdt.jpg" width="100%"/>
 </p>
 
+# 8 channel 0-10V high speed datalogger
+
+Logs 8 x 0-10V analogue signals at a sampling rate of 100 reading per second for each
+channel
+
+<p align="center">
+  <img src="https://syauqi-alias.github.io/assets/cdt.jpg" width="100%"/>
+</p>
+
 # Sonepar Sdn. Bhd.
 Cyberjaya, Malaysia
 
