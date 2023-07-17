@@ -23,7 +23,7 @@ Currently work as an Electronic Engineer 🧑‍🔬. It is based in Greater Cam
 - Evaluate and improve hardware design processes to increase efficiency and productivity. 
 - experience in programming firmware for electronic control boards, primarily using PIC MCUs and C programming language.
 
-## A custom air flow sensor PCB
+## Custom air flow sensor PCB
 Omron air flow sensor with PIC24 MCU (design from scratch)
 
 <p align="center">
