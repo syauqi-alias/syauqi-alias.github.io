@@ -52,7 +52,10 @@ Logs 8 x 0-10V analogue signals at a sampling rate of 100 reading per second for
 channel
 
 <p align="center">
-  <img src="https://syauqi-alias.github.io/assets/cdt.jpg" width="100%"/>
+  <img src="https://syauqi-alias.github.io/assets/specnow.PNG" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://syauqi-alias.github.io/assets/specnow1.jpg" width="100%"/>
 </p>
 
 # Sonepar Sdn. Bhd.
