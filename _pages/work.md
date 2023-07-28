@@ -9,9 +9,9 @@ layout: post
 # Top Hex Ltd.
 Greater Cambridge, United Kingdom
 
-October 2021 - Present
+October 2021 - July 2023
 <p align="center">
-  <img src="https://syauqi-alias.github.io/assets/top_hex_logo.png" />
+  <img src="https://syauqi-alias.github.io/assets/top_hex_logo.png" style="background-color:black;" />
 </p>
 
 
