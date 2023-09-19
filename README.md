@@ -28,8 +28,8 @@ These are the areas I am interested in:
 - Creating small form factor designs
 
 # Current Status
-Was an Electronics Engineer employed at Top Hex Ltd in Cambridge from October 2021 until July 2023.
+Working as an Electronic Engineer (Lab-technician) at University College London as of September 2023.
 
-Now on a one-month career break before going into my new position.
-
-test
+<p align="center">
+  <img src="assets/University_College_London_logo.svg.png"/>
+</p>
