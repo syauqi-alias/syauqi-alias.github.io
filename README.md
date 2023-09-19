@@ -31,5 +31,5 @@ These are the areas I am interested in:
 Working as an Electronic Engineer (Lab-technician) at University College London as of September 2023.
 
 <p align="center">
-  <img src="assets/University_College_London_logo.svg.png"/>
+  <img src="assets/University_College_London_logo.svg.png" width="70%"/>
 </p>
