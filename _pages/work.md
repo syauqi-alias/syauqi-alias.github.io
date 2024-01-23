@@ -21,7 +21,7 @@ Have work as an Electronic Engineer 🧑‍🔬. It is based in Greater Cambridg
 - Work closely with software engineers to ensure smooth hardware-software interactions, and troubleshoot any issues that may arise. 
 - Use industry-standard tools and techniques to implement and test hardware components and systems. 
 - Evaluate and improve hardware design processes to increase efficiency and productivity. 
-- experience in programming firmware for electronic control boards, primarily using PIC MCUs and C programming language.
+- Experience in programming firmware for electronic control boards, primarily using PIC MCUs and C programming language.
 
 # Sonepar Sdn. Bhd.
 Cyberjaya, Malaysia
