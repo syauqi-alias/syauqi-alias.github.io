@@ -15,7 +15,7 @@ October 2021 - July 2023
 </p>
 
 
-Have work as an Electronic Engineer 🧑‍🔬. It is based in Greater Cambridge 🇬🇧.
+Worked as an Electronic Engineer 🧑‍🔬. Based in Greater Cambridge 🇬🇧.
 
 - Specialize in creating custom PCBs and electronic assemblies that meet industry standards and follow EMC regulations. 
 - Work closely with software engineers to ensure smooth hardware-software interactions, and troubleshoot any issues that may arise. 
