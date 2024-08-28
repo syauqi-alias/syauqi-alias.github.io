@@ -12,7 +12,7 @@ layout: post
 
 # Burn a boatloader into Atmega32A
 
-This is a quick guide on how to flash the Atmega32A using Arduino Uno. 
+This is a quick guide on how to flash the Atmega32A using Arduino Uno.
 
 Prerequisite:
 - Arduino UNO (the programmer)
