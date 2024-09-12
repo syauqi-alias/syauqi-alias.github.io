@@ -5,6 +5,13 @@ category: Jekyll
 layout: post
 ---
 Certificates I obtain through online courses.
+
+# nRF Connect SDK
+nRF Connect SDK Fundemental certificate by <a href="https://academy.nordicsemi.com/check-certificate/7019A86771808A2-7019A8670F48A47-11EFA0107D50EE_36/" target="blank">Nordic Semiconductor</a>, issued September 2024
+
+![nRF Fundemental certificate](https://syauqi-alias.github.io/assets/nrfcert.PNG "nRF Connect SDK certificate by Nordic Semiconductor")
+
+
 # C++
 C++ certificate by <a href="https://www.codecademy.com/profiles/java8066407685/certificates/b74a2390dfc4127fa5d43fe147425ad0" target="_blank">Codecademy</a>, issued March 2023
 
