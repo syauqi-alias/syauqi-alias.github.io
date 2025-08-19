@@ -4,7 +4,7 @@ author: Syauqi Alias
 date: 2022-02-04
 category: Jekyll
 layout: post
-cover: https://i.pinimg.com/originals/38/06/93/3806936e1c0b535ff338121d6e5765df.gif
+cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 
 # Some "Family Own Electronic Company-ish" ltd.
