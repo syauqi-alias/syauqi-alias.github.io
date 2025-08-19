@@ -4,7 +4,7 @@ author: Syauqi Alias
 date: 2022-02-04
 category: Jekyll
 layout: post
-cover: https:/syauqi-alias.github.io/jekyll-gitbook/assets/cover2.gif
+cover: https:/syauqi-alias.github.io/assets/cover2.gif
 ---
 
 # Some "Family Own Electronic Company-ish" ltd.
