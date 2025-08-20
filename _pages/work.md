@@ -7,32 +7,34 @@ layout: post
 cover: https://syauqi-alias.github.io/assets/cover2.gif
 ---
 
-# Some "Family Own Electronic Company-ish" ltd.
-Greater Cambridge, United Kingdom
+# Some "Family Own Electronic Company-ish" Ltd.
+**Cambridge, UK 🇬🇧**
 
-October 2021 - July 2023
+*October 2021 - July 2023*
+
 <p align="center">
-  <img src="https://syauqi-alias.github.io/assets/chuckles-im-in-danger.gif" />
+    <img src="https://syauqi-alias.github.io/assets/chuckles-im-in-danger.gif" />
 </p>
-
 
 Worked as an Electronic Engineer 🧑‍🔬. Based in Greater Cambridge 🇬🇧.
 
-- Specialize in creating custom PCBs and electronic assemblies that meet industry standards and follow EMC regulations. 
-- Work closely with software engineers to ensure smooth hardware-software interactions, and troubleshoot any issues that may arise. 
-- Use industry-standard tools and techniques to implement and test hardware components and systems. 
-- Evaluate and improve hardware design processes to increase efficiency and productivity. 
-- Experience in programming firmware for electronic control boards, primarily using PIC MCUs and C programming language.
+* Specialize in creating custom PCBs and electronic assemblies that meet industry standards and follow EMC regulations. 
+* Work closely with software engineers to ensure smooth hardware-software interactions, and troubleshoot any issues that may arise. 
+* Use industry-standard tools and techniques to implement and test hardware components and systems. 
+* Evaluate and improve hardware design processes to increase efficiency and productivity. 
+* Experience in programming firmware for electronic control boards, primarily using PIC MCUs and C programming language.
 
 # Sonepar Sdn. Bhd.
-Cyberjaya, Malaysia
+**Cyberjaya, Malaysia 🇲🇾**
 
-July 2017 - November 2017
+*July 2017 - November 2017*
+
 <p align="center">
   <img src="https://syauqi-alias.github.io/assets/sonepar.png" />
 </p>
-A 5-month placement during my diploma. It is part of my studies curriculum to undergo an industrial placement. 
 
-- Examined and classified specifications of industrial electrical electronic product datasheets.
-- Designed catalogs for industrial electrical/electronic product brands such as ABB, Schneider Electric, Brother Industries, TE Connectivity, and Siemens.
-- Attended workshops to enhance B2B professional skills.
+This was a 5-month industrial placement as part of my diploma curriculum. I supported the technical sales and marketing team by analysing product specifications and creating marketing materials for leading industrial brands.
+
+* Examined and classified specifications from industrial electrical and electronic product datasheets.
+* Designed product catalogs for major brands, including ABB, Schneider Electric, Siemens, and TE Connectivity.
+* Attended workshops to develop professional B2B communication and sales skills.
