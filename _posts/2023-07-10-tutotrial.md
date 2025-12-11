@@ -19,3 +19,9 @@ Prerequisite:
 - wires/jumpers to link Arduino Uno and Atmega32A
 - Atmega32A complete with it minimal circuit design (the target)
 - GCC compiler and avrdude install (this is optional, for keyboard building purpose)
+
+## Project A README (testing only)
+
+Here is the live README file for my other project.
+
+<div id="readme-container">Loading README...</div>
