@@ -27,7 +27,9 @@ The basic formula is: Gain (dB) = 10 × log₁₀(Power_out / Power_in)
 Here's what makes dB useful:
 Key reference points:
 
-The formula is $\text{Gain (dB)} = 10 \times \log_{10} \left( \frac{\text{Power}_{\text{out}}}{\text{Power}_{\text{in}}} \right)$.
+$$
+\text{Gain (dB)} = 10 \times \log_{10} \left( \frac{\text{Power}_{\text{out}}}{\text{Power}_{\text{in}}} \right)
+$$
 
 - 0 dB = no change (output equals input)
 - +3 dB ≈ double the power
