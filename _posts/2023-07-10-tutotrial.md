@@ -23,14 +23,13 @@ Prerequisite:
 # Gain in dB (decibels)
 
 Gain in dB (decibels) is a logarithmic way to express ratios, and it's actually pretty intuitive once you get the hang of it.
-The basic formula is: Gain (dB) = 10 × log₁₀(Power_out / Power_in)
-Here's what makes dB useful:
-Key reference points:
 
+The basic formula is: 
 $$
 \text{Gain (dB)} = 10 \times \log_{10} \left( \frac{\text{Power}_{\text{out}}}{\text{Power}_{\text{in}}} \right)
 $$
 
+Here's what makes dB useful, Key reference points:
 - 0 dB = no change (output equals input)
 - +3 dB ≈ double the power
 - +10 dB = 10× the power
