@@ -9,7 +9,7 @@ cover: assets/coverpage.png
 It seems you've stumbled upon my little corner of the web. This is my online portfolio where you can find information about my experience, completed projects, and what I'm currently working on. To find what you need, just use the sidebar navigation.
 
 # About Me 👨‍💻
-My name is Syauqi. My journey in engineering spans six years, starting with a Diploma in Industrial Electronics from the **German-Malaysian Institute** 🇲🇾. Afterwards, I continued my studies for another three years at **The University of Manchester** 🇬🇧, where I obtained a Bachelor's degree in Electrical and Electronic Engineering.
+My name is Syauqi. My journey in engineering spans six years, starting with a Diploma in Industrial Electronics from **German-Malaysian Institute** 🇲🇾. Afterwards, I continued my studies for another three years at **The University of Manchester** 🇬🇧, where I obtained a Bachelor's degree in Electrical and Electronic Engineering.
 
 <p align="center">
   <img src="assets/uni_logo_manchester_1280_510.jpg" width="59%" />
