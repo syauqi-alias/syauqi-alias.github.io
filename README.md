@@ -29,7 +29,7 @@ At heart, I'm an electronics hobbyist who enjoys working on various projects to 
 * Computer Vision *(same as above, oops)*
 
 # Current Status 🔬
-As of September 2023, I am currently working as an **Electronic Engineer (Research Technician)** at University College London (UCL).
+I am currently working as an **Electronic Engineer (Research Technician)** at University College London (UCL).
 
 <p align="center">
   <img src="assets/University_College_London_logo.svg.png" width="70%"/>
