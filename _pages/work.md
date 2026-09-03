@@ -16,7 +16,7 @@ cover: https://syauqi-alias.github.io/assets/cover2.gif
   <img src="https://syauqi-alias.github.io/assets/University_College_London_logo.svg.png" width="70%"/>
 </p>
 
-Working as Electronic Engineer doing custom design for researcher electronics need and also involving in research myself. 
+Working as an Electronic Engineer, doing custom design for researchers' electronics needs, and also involved in research myself.
 
 Project covered to date: 
 * H-Bridge to actuate Liquid Crystal Elastomer (LCE) in high voltage, ~500V.
@@ -25,7 +25,7 @@ Project covered to date:
 * Logic gate learning kit that simulate Glycolysis process in 10-step, outreach program for BTech/T-Level students. 
 
 
-# Some "Family Own Electronic Company-ish" Ltd.
+# Some "Family Owned Electronic Company-ish" Ltd.
 **Cambridge, UK 🇬🇧**
 
 *October 2021 - July 2023*
