@@ -7,7 +7,25 @@ layout: post
 cover: https://syauqi-alias.github.io/assets/cover2.gif
 ---
 
-# Some "Family Own Electronic Company-ish" Ltd.
+# University College London
+**London, UK 🇬🇧**
+
+*September 2023 - Present*
+
+<p align="center">
+  <img src="https://syauqi-alias.github.io/assets/University_College_London_logo.svg.png" width="70%"/>
+</p>
+
+Working as an Electronic Engineer, doing custom design for researchers' electronics needs, and also involved in research myself.
+
+Project covered to date: 
+* H-Bridge to actuate Liquid Crystal Elastomer (LCE) in high voltage, ~500V.
+* Custom Peltier control for Atomic Force Microscopy (AFM).
+* Custom mini well heating and BLDC motor control for Opentrons
+* Logic gate learning kit that simulate Glycolysis process in 10-step, outreach program for BTech/T-Level students. 
+
+
+# Some "Family Owned Electronic Company-ish" Ltd.
 **Cambridge, UK 🇬🇧**
 
 *October 2021 - July 2023*

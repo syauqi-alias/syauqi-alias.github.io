@@ -7,18 +7,18 @@ layout: post
 
 > ##### TIP
 >
-> This is where I compile things that I have learned that may benefit others (I think). Most of it probably going to be about embedded system and hardware design. 
+> This is where I compile things that I have learned that may benefit others (I think). Most of it is probably going to be about embedded systems and hardware design. 
 {: .block-tip }
 
-# Burn a boatloader into Atmega32A
+# Burn a bootloader into Atmega32A
 
 This is a quick guide on how to flash the Atmega32A using Arduino Uno.
 
 Prerequisite:
 - Arduino UNO (the programmer)
 - wires/jumpers to link Arduino Uno and Atmega32A
-- Atmega32A complete with it minimal circuit design (the target)
-- GCC compiler and avrdude install (this is optional, for keyboard building purpose)
+- Atmega32A complete with its minimal circuit design (the target)
+- GCC compiler and avrdude installed (this is optional, for keyboard-building purposes)
 
 # Gain in dB (decibels)
 
@@ -29,7 +29,7 @@ $$
 \text{Gain (dB)} = 10 \times \log_{10} \left( \frac{\text{Power}_{\text{out}}}{\text{Power}_{\text{in}}} \right)
 $$
 
-Here's what makes dB useful, Key reference points:
+Here's what makes dB useful. Key reference points:
 - 0 dB = no change (output equals input)
 - +3 dB ≈ double the power
 - +10 dB = 10× the power
